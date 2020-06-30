@@ -1,6 +1,19 @@
 {
   "sidebar": [
     {
+      "section": "Dashboard basics",
+      "topics": [
+        {
+          "title": "Delete dashboard",
+          "slug": "delete-dashboard"
+        },
+        {
+          "title": "Edit dashboard",
+          "slug": "edit-dashboard"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
